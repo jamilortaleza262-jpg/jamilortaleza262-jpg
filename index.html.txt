@@ -34,8 +34,8 @@
 <body>
     <h1 style="text-align: center; color: #2c3e50;">Personal Information</h1>
     
-    <!-- Palitan ang src ng link ng iyong larawan -->
-    <img src="https://drive.google.com/file/d/1QBxg0WIX7HkpXdBpMlMzF5ovnqBEIl51/view?usp=drivesdk" alt="Jamil Ortaleza">
+    <!-- Updated with GitHub profile picture -->
+    <img src="https://avatars.githubusercontent.com/u/jamilortaleza262-jpg" alt="Jamil Ortaleza">
 
     <div class="info">
         <span class="label">Full Name:</span> Jamil Baculio Ortaleza 
